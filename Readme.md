@@ -38,13 +38,13 @@ Successfully working following environment.
 # 3. Configuration
 Include following configuration
 
-- Default Language : Korean (You can choose other language at installation step)
+- Default Language : English (You can choose other language at installation step)
 - Default Keyboard Layout : Qwerty
 - Boot Timeout: 5 Sec.
 - Set Default: Enabled (`Ctrl + Enter` to set default)
 - SecurityPolicy: Disabled
 - Hide Auxiliary: Enabled (`Space Bar` to see that entry like recovery)
-- Boot Verbose: Disable
+- Boot Verbose: Enable
 - Apple Hot Key: Enable (`Cmd + V` to boot with Verse mode)
 - MacBook Pro 13-Inch Late 2016 i5 non-Touchbar Model (`MacBookPro13,1`)
 - Built in ACPIKeyboard.kext, CPUFriends.kext, USBInjectAll.kext, HibernationFixup.kext and USBMap.kext
